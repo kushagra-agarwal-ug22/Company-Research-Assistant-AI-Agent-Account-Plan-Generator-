@@ -60,7 +60,6 @@ User → Root-Agent
 ```bash
 pip install google-generativeai google-adk python-dotenv
 ```
-(This step is not required when running in Colab notebook.)
 
 ### **2. Set environment variables**
 
